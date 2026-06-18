@@ -1,0 +1,56 @@
+﻿<Window x:Class="zd3_PavlovMaksim.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zd3_PavlovMaksim"
+        mc:Ignorable="d"
+        Title="Дорожные работы" Height="450" Width="800">
+    <StackPanel Margin="10">
+
+        <WrapPanel Margin="0,0,0,5">
+            <Label Content="Название:" Width="70"/>
+            <TextBox x:Name="txtName" Width="100" Margin="0,0,10,0"/>
+
+            <Label Content="Ширина:" Width="70"/>
+            <TextBox x:Name="txtWidth" Width="80" Margin="0,0,10,0"/>
+
+            <Label Content="Длина:" Width="70"/>
+            <TextBox x:Name="txtLength" Width="80" Margin="0,0,10,0"/>
+
+            <Label Content="Масса:" Width="70"/>
+            <TextBox x:Name="txtMass" Width="80" Margin="0,0,10,0"/>
+        </WrapPanel>
+
+        <WrapPanel Margin="0,0,0,5">
+            <Label Content="Покрытие:" Width="70"/>
+            <TextBox x:Name="txtSurface" Width="100" Margin="0,0,10,0"/>
+
+            <Label Content="Год:" Width="70"/>
+            <TextBox x:Name="txtYear" Width="80" Margin="0,0,10,0"/>
+
+            <Label Content="P:" Width="70"/>
+            <TextBox x:Name="txtP" Width="80" Margin="0,0,10,0"/>
+
+            <Label Content="Погода:" Width="70"/>
+            <TextBox x:Name="txtWeather" Width="80"/>
+        </WrapPanel>
+
+
+        <WrapPanel Margin="0,0,0,10">
+            <Button Content="Добавить базовый" Width="120" Click="AddBase_Click" Margin="0,0,5,0"/>
+            <Button Content="Добавить потомка" Width="120" Click="AddChild_Click" Margin="0,0,5,0"/>
+            <Button Content="Удалить" Width="100" Click="Remove_Click" Margin="0,0,5,0"/>
+            <Button Content="LINQ (Q>1000)" Width="120" Click="LINQ_Click" Margin="0,0,5,0"/>
+            
+        </WrapPanel>
+
+        
+        <WrapPanel>
+            <ListBox x:Name="lbRoads" Width="400" Height="320" Background="#F0F0F0" 
+         SelectionChanged="LbRoads_SelectionChanged"/>
+            <TextBox x:Name="txtInfo" Width="370" Height="320" IsReadOnly="True" 
+                     TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" Background="Wheat"/>
+        </WrapPanel>
+    </StackPanel>
+</Window>
