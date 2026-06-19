@@ -1,0 +1,19 @@
+C:\Users\305-10\Desktop\Pavlov PR-23\zad5_1_Pavlov-master\zad4_Pavlov\bin\Debug\netstandard2.0\zad4_Pavlov.deps.json
+C:\Users\305-10\Desktop\Pavlov PR-23\zad5_1_Pavlov-master\zad4_Pavlov\bin\Debug\netstandard2.0\zad4_Pavlov.dll
+C:\Users\305-10\Desktop\Pavlov PR-23\zad5_1_Pavlov-master\zad4_Pavlov\bin\Debug\netstandard2.0\ref\zad4_Pavlov.dll
+C:\Users\305-10\Desktop\Pavlov PR-23\zad5_1_Pavlov-master\zad4_Pavlov\bin\Debug\netstandard2.0\zad4_Pavlov.pdb
+C:\Users\305-10\Desktop\Pavlov PR-23\zad5_1_Pavlov-master\zad4_Pavlov\obj\Debug\netstandard2.0\zad4_Pavlov.csproj.AssemblyReference.cache
+C:\Users\305-10\Desktop\Pavlov PR-23\zad5_1_Pavlov-master\zad4_Pavlov\obj\Debug\netstandard2.0\zad4_Pavlov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-10\Desktop\Pavlov PR-23\zad5_1_Pavlov-master\zad4_Pavlov\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\305-10\Desktop\Pavlov PR-23\zad5_1_Pavlov-master\zad4_Pavlov\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\305-10\Desktop\Pavlov PR-23\zad5_1_Pavlov-master\zad4_Pavlov\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\305-10\Desktop\Pavlov PR-23\zad5_1_Pavlov-master\zad4_Pavlov\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\Users\305-10\Desktop\Pavlov PR-23\zad5_1_Pavlov-master\zad4_Pavlov\obj\Debug\netstandard2.0\WelcomePage .xaml.g.cs
+C:\Users\305-10\Desktop\Pavlov PR-23\zad5_1_Pavlov-master\zad4_Pavlov\obj\Debug\netstandard2.0\zad4_Pavlov.AssemblyInfoInputs.cache
+C:\Users\305-10\Desktop\Pavlov PR-23\zad5_1_Pavlov-master\zad4_Pavlov\obj\Debug\netstandard2.0\zad4_Pavlov.AssemblyInfo.cs
+C:\Users\305-10\Desktop\Pavlov PR-23\zad5_1_Pavlov-master\zad4_Pavlov\obj\Debug\netstandard2.0\zad4_Pavlov.csproj.CoreCompileInputs.cache
+C:\Users\305-10\Desktop\Pavlov PR-23\zad5_1_Pavlov-master\zad4_Pavlov\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\305-10\Desktop\Pavlov PR-23\zad5_1_Pavlov-master\zad4_Pavlov\obj\Debug\netstandard2.0\zad4_Pavlov.dll
+C:\Users\305-10\Desktop\Pavlov PR-23\zad5_1_Pavlov-master\zad4_Pavlov\obj\Debug\netstandard2.0\ref\zad4_Pavlov.dll
+C:\Users\305-10\Desktop\Pavlov PR-23\zad5_1_Pavlov-master\zad4_Pavlov\obj\Debug\netstandard2.0\zad4_Pavlov.pdb
+C:\Users\305-10\Desktop\Pavlov PR-23\zad5_1_Pavlov-master\zad4_Pavlov\obj\Debug\netstandard2.0\styles.css.g.cs
